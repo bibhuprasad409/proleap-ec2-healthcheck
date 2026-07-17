@@ -1,0 +1,5 @@
+*.log
+*.tmp
+.env
+credentials.txt
+reports/health-report-*.txt
